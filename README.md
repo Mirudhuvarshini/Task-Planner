@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Full-Stack Personalized Task Planner
 
 A comprehensive Task Planner application built with **Java Spring Boot**, **MySQL**, and **Vanilla JavaScript**.
