@@ -4,7 +4,7 @@ Personalised Task Planner is a Java Spring Boot-based CRUD application that allo
 
 ---
 
-## 🚀 Key Features
+## Key Features
 - Create new tasks with title, description, deadline, and priority
 - View all tasks
 - Update task details
